@@ -32,6 +32,27 @@ O objetivo é simular uma loja virtual com listagem de produtos, carrinho de com
 
 ## 📁 Estrutura de Pastas
 
+---
+
+## 🧠 Decisões Técnicas
+
+- O backend foi mantido simples com Express e arquivos `.json` para foco na lógica.
+- O frontend foi feito com React sem bibliotecas externas para manter leveza e controle total sobre a UI.
+- As imagens dos produtos são ilustrativas e foram usadas como placeholders para fins de apresentação.
+- As APIs externas de fornecedores (Brasil e Europa) estão mapeadas para futura integração.
+- O carrinho foi implementado totalmente no estado local (`useState`), com persistência mínima para simplicidade.
+
+---
+
+## 🚀 Como rodar o projeto
+
+### Backend
+
+```bash
+cd backend
+npm install
+node index.js
+
 
 ---
 
@@ -51,7 +72,7 @@ bash
 cd backend
 npm install
 node index.js
-O back-end ficará disponível em: http://localhost:3001
+O back-end ficará disponível em: http://localhost:3001/products
 
 ### Front-end
 bash
