@@ -43,7 +43,7 @@ ecommerce-test/
 │ └── src/
 │ ├── App.js
 │ └── App.css
-└── README.md # Esse arquivo
+└── README.md # Este arquivo
 ---
 
 ## 🧠 Decisões Técnicas
