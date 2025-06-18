@@ -84,7 +84,7 @@ bash
 cd backend
 npm install
 node index.js
-O back-end ficará disponível em: http://localhost:3001/products
+O back-end ficará disponível em: http://localhost:3001
 
 ### Front-end
 bash
