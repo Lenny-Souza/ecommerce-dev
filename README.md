@@ -32,20 +32,6 @@ Como tenho pouco conhecimento em programação e iniciei os meus estudos faz 5 m
 
 ---
 
-## 📁 Estrutura de Pastas
-ecommerce-test/
-├── backend/ # Backend com Node.js
-│ ├── index.js
-│ ├── products.json (mock externo simulado)
-│ └── orders.json
-├── frontend/ # Aplicação React
-│ ├── public/
-│ └── src/
-│ ├── App.js
-│ └── App.css
-└── README.md # Este arquivo
----
-
 ## 🧠 Decisões Técnicas
 
 - O backend foi mantido simples com Express e arquivos `.json` para foco na lógica.
