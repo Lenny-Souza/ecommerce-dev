@@ -1,7 +1,6 @@
 # 🛒 Projeto e-commerce - Desafio técnico
 
-Esse projeto de e-commerce foi feito como parte de um desafio técnico. Ele contém Front-end em **React** e Back-end em **Node.js**.  
-O objetivo é simular uma loja virtual com listagem de produtos, carrinho de compras e finalização de pedidos.
+Esse projeto de e-commerce foi feito como parte de um desafio técnico. Ele contém Front-end em **React** e Back-end em **Node.js**. O objetivo é simular uma loja virtual com listagem de produtos, carrinho de compras e finalização de pedidos.
 
 ---
 
@@ -17,6 +16,8 @@ O objetivo é simular uma loja virtual com listagem de produtos, carrinho de com
 ---
 
 ## 💻 Tecnologias utilizadas
+
+## Chatgpt
 
 ### Front-end
 - APIs  
