@@ -15,6 +15,12 @@ Esse projeto de e-commerce foi feito como parte de um desafio técnico. Ele cont
 
 ---
 
+## 📁 Estruturas das Pastas
+ecommerce-dev/
+├── backend/
+├── frontend/
+└── README.md
+
 ## 💻 Tecnologias utilizadas
 
 ## Chatgpt
