@@ -24,7 +24,7 @@ ecommerce-dev/
 ## 💻 Tecnologias utilizadas
 
 ## Chatgpt
-Como tenho pouco conhecimento em programação e iniciei os meus estudos faz 5 meses, precisei utilizar para obter uma aplicação limpa e sem complexidades.
+Como tenho pouco conhecimento em programação e iniciei os meus estudos faz 5 meses, precisei utilizar para obter uma aplicação limpa e sem complexidades, uso a ferramenta diariamente e na maioria dos meus projetos eu trabalho com o chatgpt.
 
 ### Front-end
 - APIs  
