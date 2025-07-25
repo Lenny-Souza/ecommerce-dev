@@ -3,7 +3,7 @@
 Esse projeto de e-commerce foi feito como parte de um desafio técnico. Ele contém Front-end em **React** e Back-end em **Node.js**. O objetivo é simular uma loja virtual com listagem de produtos, carrinho de compras e finalização de pedidos.
 <br>
 
-## 📦 Funcionalidades
+# 📦 Funcionalidades
 
 - Filtrar produto por nome  
 - Filtros por nome de produto  
@@ -14,9 +14,6 @@ Esse projeto de e-commerce foi feito como parte de um desafio técnico. Ele cont
 <br>
 
 # 💻Tecnologias utilizadas
-
-ChatGPT
-Como tenho pouco conhecimento em programação e iniciei os meus estudos faz 5 meses, precisei utilizar para obter uma aplicação limpa e sem complexidades, uso a ferramenta diariamente e na maioria dos meus projetos eu trabalho com o chatgpt.
 
 Front-end
 - APIs  
@@ -29,49 +26,10 @@ Back-end
 - Arquivos `.json` para persistência (simulação de banco de dados)
 <br>
 
-## 🧠 Decisões Técnicas
+# 🧠 Decisões Técnicas
 
 - O backend foi mantido simples com Express e arquivos `.json` para foco na lógica.
 - O frontend foi feito com React sem bibliotecas externas para manter leveza e controle total sobre a UI.
 - As imagens dos produtos são ilustrativas e foram usadas como placeholders para fins de apresentação.
 - As APIs externas de fornecedores (Brasil e Europa) estão mapeadas para futura integração.
 - O carrinho foi implementado totalmente no estado local (`useState`), com persistência mínima para simplicidade.
-
----
-
-## 🚀 Como rodar o projeto
-
-### Backend
-
-```bash
-cd backend
-npm install
-node index.js
-
-
----
-
-## 🧠 Decisões Técnicas
-
-- O back-end foi mantido simples com Express e arquivos `.json` para foco na lógica.  
-- As APIs externas de fornecedores (Brasil e Europa) estão mapeadas para futura integração.  
-- O frontend foi feito com React sem bibliotecas externas para manter leveza e controle total sobre a UI.  
-- O carrinho foi implementado totalmente no estado local (`useState`), com persistência mínima para simplicidade.
-
----
-
-## 🚀 Como rodar o projeto
-
-### Back-end
-bash
-cd backend
-npm install
-node index.js
-O back-end ficará disponível em: http://localhost:3001
-
-### Front-end
-bash
-cd frontend
-npm install
-npm start
-O frontend ficará disponível em: http://localhost:3000
