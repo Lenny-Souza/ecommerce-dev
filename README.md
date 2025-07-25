@@ -13,7 +13,7 @@ Esse projeto de e-commerce foi feito como parte de um desafio técnico. Ele cont
 - Visualização e cálculo do total dos produtos adicionados ao carrinho
 <br>
 
-##💻 Tecnologias utilizadas
+# 💻Tecnologias utilizadas
 
 ## Chatgpt
 Como tenho pouco conhecimento em programação e iniciei os meus estudos faz 5 meses, precisei utilizar para obter uma aplicação limpa e sem complexidades, uso a ferramenta diariamente e na maioria dos meus projetos eu trabalho com o chatgpt.
@@ -27,8 +27,7 @@ Como tenho pouco conhecimento em programação e iniciei os meus estudos faz 5 m
 - Node.js  
 - Express  
 - Arquivos `.json` para persistência (simulação de banco de dados)
-
----
+<br>
 
 ## 🧠 Decisões Técnicas
 
