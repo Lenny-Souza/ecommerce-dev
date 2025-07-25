@@ -15,15 +15,15 @@ Esse projeto de e-commerce foi feito como parte de um desafio técnico. Ele cont
 
 # 💻Tecnologias utilizadas
 
-## Chatgpt
+Chatgpt
 Como tenho pouco conhecimento em programação e iniciei os meus estudos faz 5 meses, precisei utilizar para obter uma aplicação limpa e sem complexidades, uso a ferramenta diariamente e na maioria dos meus projetos eu trabalho com o chatgpt.
 
-### Front-end
+Front-end
 - APIs  
 - React  
 - CSS puro (sem frameworks)
 
-### Back-end
+Back-end
 - Node.js  
 - Express  
 - Arquivos `.json` para persistência (simulação de banco de dados)
